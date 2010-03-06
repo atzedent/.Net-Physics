@@ -1,0 +1,10 @@
+﻿<!ELEMENT Parameter (Globals, Tests)>
+<!ELEMENT Tests (ParameterizedTest)>
+<!ELEMENT ParameterizedTest (Length, Temperature)>
+<!ELEMENT Length (PhysicalValue)>
+<!ELEMENT Temperature (PhysicalValue)>
+<!ELEMENT PhysicalValue ANY>
+<!ELEMENT Globals (Length, Temperature)>
+
+<!ATTLIST PhysicalValue unit CDATA #REQUIRED>
+<!ATTLIST PhysicalValue value CDATA #REQUIRED>

@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMaverick.Physics", "IMaverick.Physics\IMaverick.Physics.csproj", "{8FAE7544-AAC9-4110-A463-DE80A1A211A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMaverick.Physics.Tests", "IMaverick.Physics.Tests\IMaverick.Physics.Tests.csproj", "{1A17C7F2-625C-49B8-8361-5000223107D4}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "IMaveric.Physics.Tests.FSharp", "IMaveric.Physics.Tests.FSharp\IMaveric.Physics.Tests.FSharp.fsproj", "{492E4F7E-5B4D-43A0-AC3C-F30853203732}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMaverick.Gallio.Extensions", "IMaverick.Gallio.Extensions\IMaverick.Gallio.Extensions.csproj", "{593C32B0-B9A7-45BF-A490-07D32B4D5CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FAE7544-AAC9-4110-A463-DE80A1A211A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAE7544-AAC9-4110-A463-DE80A1A211A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAE7544-AAC9-4110-A463-DE80A1A211A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAE7544-AAC9-4110-A463-DE80A1A211A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A17C7F2-625C-49B8-8361-5000223107D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A17C7F2-625C-49B8-8361-5000223107D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A17C7F2-625C-49B8-8361-5000223107D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A17C7F2-625C-49B8-8361-5000223107D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{492E4F7E-5B4D-43A0-AC3C-F30853203732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492E4F7E-5B4D-43A0-AC3C-F30853203732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492E4F7E-5B4D-43A0-AC3C-F30853203732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492E4F7E-5B4D-43A0-AC3C-F30853203732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{593C32B0-B9A7-45BF-A490-07D32B4D5CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593C32B0-B9A7-45BF-A490-07D32B4D5CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593C32B0-B9A7-45BF-A490-07D32B4D5CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593C32B0-B9A7-45BF-A490-07D32B4D5CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SpecExplorer.ActivityCompletionStatus) = preSolution
+		SpecExplorer.ActivityCompletionStatus = 
+	EndGlobalSection
+EndGlobal

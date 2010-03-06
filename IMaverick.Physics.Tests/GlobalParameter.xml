@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Globals>
+  <Length>
+    <PhysicalValue value="2" unit="cm">
+      <metadata xmlns="http://www.gallio.org/">
+        <entry key="Purpose" value="Length to compare"/>
+      </metadata>
+    </PhysicalValue>
+  </Length>
+  <Temperature>
+    <PhysicalValue value="30" unit="°C"/>
+  </Temperature>
+</Globals>

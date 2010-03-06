@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<!DOCTYPE Parameter SYSTEM "Parameter.dtd" [
+  <!ENTITY Globals SYSTEM "GlobalParameter.xml">
+]>
+<Parameter>
+  &Globals;
+  <Tests>
+    <ParameterizedTest>
+      <Length>
+        <PhysicalValue value="2" unit="cm">
+          <metadata xmlns="http://www.gallio.org/">
+            <entry key="Purpose" value="Length to compare"/>
+          </metadata>
+        </PhysicalValue>
+      </Length>
+      <Temperature>
+        <PhysicalValue value="30" unit="°C">
+          <metadata xmlns="http://www.gallio.org/">
+            <entry key="Purpose" value="Temperature to compare"/>
+          </metadata>
+        </PhysicalValue>
+      </Temperature>
+    </ParameterizedTest>
+  </Tests>
+</Parameter>
