@@ -1,0 +1,10 @@
+h3. Physical Value Types for the CLR
+
+p. The aim of that project is to provide physical value types to the CLR.
+It was inspired by "Andrew Kennedy":http://blogs.msdn.com/andrewkennedy/default.aspx and his guest commentators on his blog on "Units of Measure in F#":http://blogs.msdn.com/andrewkennedy/archive/2008/08/20/units-of-measure-in-f-part-one-introducing-units.aspx.
+
+p. The actual work is more of a case study than a real production version. Consider it beeing a __work in progress__ __(WIP)__.
+
+p. **Contributors are most welcome!**
+
+p. Contact us at "info@imaverick.net":mailto:info@imaverick.net.
